@@ -368,14 +368,20 @@ section#ideas .idea {
     margin: 0;
 }
 
-.trashCanDelete {
-    margin-left:280px;
-    display: flex;
-    justify-content: space-evenly;
-}
-
 section#title,
 section#ideas,
 footer{
     margin-top: 64px;
+}
+
+#trashCan:hover {
+    opacity: 0.8;
+}
+#option {
+    display:flex;
+    text-decoration:none;
+    padding:6px 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

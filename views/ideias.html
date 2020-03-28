@@ -26,7 +26,31 @@
 
 <main>
     <section id="ideas">
-        {% include "all_ideas.html"  %}
+        {% for idea in ideas %}
+        <div class="idea">
+            <img 
+                src="{{idea.image}}" 
+                alt="Imagem de {{idea.title}}">
+        
+            <div class="content">
+                <h3>{{idea.title}}</h3>
+        
+                <p>{{idea.category}}</p>
+        
+                <div class="description">
+                    {{idea.description}}
+                </div>
+        
+                <div id="option">
+                    <a id="trashCan" href="/delete/{{idea.id}}">
+                        <img src="https://img.icons8.com/clouds/100/000000/delete-forever.png"/>
+                    </a>
+
+                    <a href="{{idea.link}}" target="_blanck">Ir para a Ideia</a>
+                </div>
+            </div>
+        </div>     
+        {% endfor %}
     </section>
 </main>
 
