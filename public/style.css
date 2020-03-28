@@ -175,7 +175,7 @@ footer a {
 
 }
 
-/* modal*/
+/* modal */
 
 #modal {
     background-color: #ff5E84;
@@ -195,7 +195,7 @@ footer a {
 }
 
 #modal .content {
-    margin-top: 15%;
+    margin-top: 5%;
 
     color: white;
 }
