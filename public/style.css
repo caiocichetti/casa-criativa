@@ -368,6 +368,12 @@ section#ideas .idea {
     margin: 0;
 }
 
+.trashCanDelete {
+    margin-left:280px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
 section#title,
 section#ideas,
 footer{
