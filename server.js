@@ -86,7 +86,7 @@ server.post("/", function(req, res) {
 });
 
 server.get('/delete/:id', function(req, res) {
-    const { id }  = req.params
+    const { id }  = req.params;
 
     console.log(id);
 
