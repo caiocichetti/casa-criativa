@@ -16,7 +16,7 @@ Nesse momento de pandemia você poderá catalogar ideias,brincadeiras, jogos, fi
 livros, cursos, dicas e tudo que for necessário para tornar 
 esse momento mais interessante.
 
-### 👨🏻‍💻 Instalação:
+### 👨🏻‍💻 Instalação
 
 clone o projeto em seu computador e em seguida execute:
 
@@ -25,6 +25,10 @@ clone o projeto em seu computador e em seguida execute:
  npm install
  npm start
 ```
-  
+
+#### obs:
+No código desenvolvido por mim, eu inclui o desafio proposto no final do workshop, a opção
+de excluir uma idéia.
+
 ### 🎓 Ministrado por:</h3>
 Mayk Brito
