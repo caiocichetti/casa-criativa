@@ -1,8 +1,8 @@
 ![logo](https://user-images.githubusercontent.com/58996814/77831864-73891300-7110-11ea-959f-13ba58b76021.png)
 
-<h2>Aplicativo desenvolvido no workshopDev</h2>
+## Aplicativo desenvolvido no workshopDev</h2>
   
-<h3>🚀 Tecnologias usadas</h3>
+## 🚀 Tecnologias usadas
   
 <ul>
 <li>JavaScript</li> 
@@ -11,7 +11,7 @@
 <li>CSS3</li> 
 </ul>
   
-***📘 Projeto
+### 📘 Projeto
 Nesse momento de pandemia você poderá catalogar ideias,brincadeiras, jogos, filmes, 
 livros, cursos, dicas e tudo que for necessário para tornar 
 esse momento mais interessante.
@@ -26,5 +26,5 @@ clone o projeto em seu computador e em seguida execute:
  npm start
 ```
   
-***🎓 Ministrado por:</h3>
+### 🎓 Ministrado por:</h3>
 Mayk Brito
