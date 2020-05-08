@@ -11,12 +11,20 @@
 <li>CSS3</li> 
 </ul>
   
-<hgroup>
-<h3>📘 Projeto</h3>
-  Nesse momento de pandemia você poderá catalogar ideias,brincadeiras, jogos, filmes, 
-  livros, cursos, dicas e tudo que for necessário para tornar 
-  esse momento mais interessante.
-</hgroup>
+***📘 Projeto
+Nesse momento de pandemia você poderá catalogar ideias,brincadeiras, jogos, filmes, 
+livros, cursos, dicas e tudo que for necessário para tornar 
+esse momento mais interessante.
+
+### 👨🏻‍💻 Instalação:
+
+clone o projeto em seu computador e em seguida execute:
+
+```
+ cd backend
+ npm install
+ npm start
+```
   
-<h3>🎓 Ministrado por:</h3>
+***🎓 Ministrado por:</h3>
 Mayk Brito
