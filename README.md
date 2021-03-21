@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/58996814/77831864-73891300-7110-11ea-959f-13ba58b76021.png)
 
-## Aplicativo desenvolvido no workshopDev</h2>
+## Aplicativo desenvolvido no workshopDev
   
 ## 🚀 Tecnologias usadas
   
